@@ -1,160 +1,157 @@
 # 👋 Hello, I'm Shravanchandra G
 
-### Researcher in Artificial Intelligence, Healthcare AI, Machine Learning & Data Engineering
+### Researcher | Artificial Intelligence | Healthcare AI | Machine Learning | Data Engineering
 
-I am a researcher and academic working at the intersection of **Artificial Intelligence, Machine Learning, Healthcare AI, Data Engineering, and emerging computing technologies**.
+I am a researcher and academic working in the areas of **Artificial Intelligence, Machine Learning, Healthcare AI, Data Engineering, and emerging computing technologies**.
 
-My work focuses on developing practical, reproducible, and research-oriented AI solutions for real-world problems, with particular interest in intelligent healthcare systems and data-driven decision support.
+My research interests focus on developing **reproducible, explainable, privacy-aware, and practically useful AI systems** for real-world applications.
 
 ---
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence and Machine Learning
 - Healthcare AI
-- ECG / Cardiovascular Signal Analysis
+- ECG and Cardiovascular Signal Analysis
 - Deep Learning
 - Explainable AI (XAI)
-- Edge AI & Federated Learning
+- Edge AI
+- Federated Learning
 - Digital Twins
-- Data Engineering & Intelligent Data Pipelines
-- Quantum Computing & Quantum Machine Learning
+- Data Engineering
+- Quantum Computing
+- Quantum Machine Learning
 - AI Automation
 
 ---
 
-## 🫀 Healthcare AI Research
+## 🫀 Current Research — Healthcare AI
 
-A major area of my research is the application of AI to cardiovascular healthcare, including:
+A major area of my research is the application of Artificial Intelligence to cardiovascular healthcare.
 
-- ECG signal processing and analysis
-- Multi-label ECG classification
-- Deep learning for cardiovascular diagnosis
-- Explainable and trustworthy AI
-- Edge-based healthcare intelligence
-- Federated healthcare architectures
-- Digital Twin–based healthcare systems
+### PTB-XL ECG Research
 
-I am particularly interested in developing AI systems that are **accurate, explainable, privacy-aware, and suitable for real-world healthcare environments**.
+Current experimental work includes analysis of the **PTB-XL electrocardiography dataset**, including:
+
+- ECG waveform verification
+- Diagnostic label analysis
+- Diagnostic superclass analysis
+- Patient and fold integrity analysis
+- ECG preprocessing
+- Multi-label target construction
+- Dataset loading and split validation
+- Machine learning and deep learning experimentation
+- Explainable AI research directions
+
+The research emphasizes **reproducibility, experimental validation, explainability, and reliable evaluation**.
+
+---
+
+## 🤖 Artificial Intelligence
+
+Research and development interests include:
+
+`Machine Learning` · `Deep Learning` · `Neural Networks` · `CNN` · `Transformers` · `Explainable AI` · `Federated Learning` · `Edge AI`
 
 ---
 
 ## 📊 Data Engineering
 
-I also work with data engineering technologies and architectures for building reliable data pipelines and analytical systems.
+Areas of interest and practical work include:
 
-**Technologies / Areas:**
-
-`Python` · `PostgreSQL` · `Apache NiFi` · `Apache Airflow` · `SQL` · `Data Pipelines` · `ETL/ELT`
+`Python` · `SQL` · `PostgreSQL` · `Apache NiFi` · `Apache Airflow` · `ETL/ELT` · `Data Pipelines`
 
 ---
 
-## 🧠 Artificial Intelligence
+## ⚛️ Quantum Computing
 
-My AI interests include:
+Exploring the intersection of quantum computing and Artificial Intelligence, including:
 
-`Neural Networks` · `CNN` · `Deep Learning` · `Transformers` · `Computer Vision` · `Explainable AI` · `Federated Learning` · `Edge AI`
-
----
-
-## ⚛️ Emerging Technologies
-
-I explore emerging computational technologies and their potential applications in AI and healthcare, including:
-
-- Quantum Computing
+- Quantum algorithms
 - Quantum Machine Learning
-- Quantum Algorithms
-- AI-driven intelligent systems
+- Quantum computing fundamentals
+- Potential healthcare applications of quantum technologies
 
 ---
 
-## 🧪 Research Philosophy
+## 🧪 Research Approach
 
-My research emphasizes:
+My research work emphasizes:
 
 **Reproducibility · Experimental Validation · Explainability · Privacy · Reliability · Real-world Applicability**
 
-I believe that research should move beyond theoretical models toward **verifiable experiments, transparent methodologies, and reproducible implementations**.
+I aim to connect theoretical research with **verifiable experiments and reproducible implementations**.
 
 ---
 
-## 📚 Current Research
-
-### PTB-XL ECG Research
-
-Current research work includes experimental analysis of the **PTB-XL electrocardiography dataset**, covering:
-
-- ECG waveform verification
-- Diagnostic label analysis
-- Patient and fold integrity
-- ECG preprocessing
-- Multi-label target construction
-- Dataset loading and validation
-- Machine learning / deep learning experimentation
-- Explainability and future clinical research directions
-
----
-
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies & Tools
 
 ### Programming
-`Python` · `SQL` · `Java` · `Prolog`
+`Python` · `Java` · `SQL` · `Prolog`
 
 ### AI / ML
-`Machine Learning` · `Deep Learning` · `Neural Networks` · `CNN` · `Transformers` · `XAI`
+`Machine Learning` · `Deep Learning` · `CNN` · `Transformers` · `XAI`
 
 ### Data Engineering
 `PostgreSQL` · `Apache NiFi` · `Apache Airflow` · `ETL` · `Data Pipelines`
 
-### Research & Computing
-`PTB-XL` · `WFDB` · `Quantum Computing` · `QML`
+### Research
+`PTB-XL` · `WFDB` · `ECG Signal Processing`
+
+### Emerging Computing
+`Quantum Computing` · `Quantum Algorithms` · `Quantum Machine Learning`
 
 ---
 
-## 🎯 Research Goals
+## 📚 Research Projects
 
-My long-term research interests focus on building intelligent systems that combine:
+More research repositories will be added progressively.
 
-**AI + Healthcare + Data Engineering + Edge Computing + Explainability + Privacy**
+### 🫀 PTB-XL ECG AI Research
+Experimental research involving ECG data analysis, preprocessing, diagnostic classification, dataset integrity, and AI-based cardiovascular research.
 
-with the goal of translating research concepts into **reproducible and practically useful intelligent systems**.
+### 📊 Data Engineering
+Experiments and implementations involving data pipelines, databases, ETL processes, workflow orchestration, and analytical systems.
 
----
+### 🤖 AI & Machine Learning
+Research and laboratory implementations covering machine learning, deep learning, neural networks, explainable AI, and intelligent systems.
 
-## 📌 Selected Areas
-
-| Area | Focus |
-|---|---|
-| 🫀 Healthcare AI | ECG & Cardiovascular AI |
-| 🤖 Artificial Intelligence | ML & Deep Learning |
-| 🔍 Explainable AI | Transparent AI Systems |
-| 🌐 Edge / Federated AI | Distributed & Privacy-Aware AI |
-| 📊 Data Engineering | Data Pipelines & Analytics |
-| ⚛️ Quantum Computing | Quantum Algorithms & QML |
-| 🔬 Research | Reproducible AI Experiments |
+### ⚛️ Quantum Computing
+Educational and exploratory work involving quantum computing, quantum algorithms, and quantum machine learning.
 
 ---
 
-## 🤝 Collaboration
+## 🔗 Research Profiles
 
-I am interested in research and academic collaboration in:
+- **ORCID:** [0009-0003-2893-8033](https://orcid.org/0009-0003-2893-8033)
+- **Google Scholar:** [Research Profile](https://scholar.google.com/citations?hl=en&user=5uJEADoAAAAJ)
+- **ResearchGate:** [Research Profile](https://www.researchgate.net/profile/Shravanchandra-G)
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/shravan-chandra-geerlapally-053638343/)
+
+---
+
+## 🤝 Research Collaboration
+
+I am interested in academic and research collaboration in areas including:
 
 - Artificial Intelligence
 - Healthcare AI
-- ECG / Cardiovascular AI
+- ECG and Cardiovascular AI
 - Explainable AI
-- Federated & Edge AI
+- Edge and Federated AI
 - Data Engineering
 - Quantum Machine Learning
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-**GitHub:** [@shravanchandra-research](https://github.com/shravanchandra-research)
+**Research Email:**  
+`shravanchandra.research@gmail.com`
 
-**Research Email:** shravanchandra.research@gmail.com
+**GitHub:**  
+[@shravanchandra-research](https://github.com/shravanchandra-research)
 
 ---
 
-> **Research • Experiment • Validate • Reproduce**
+### Research • Experiment • Validate • Reproduce
